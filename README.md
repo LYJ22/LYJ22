@@ -22,7 +22,7 @@ Currently, I'm working on becoming a web developer🔥
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYJ22&layout=compact)
+![Top Langs](https://github-readme-stats-mocha-mu-40.vercel.app/api/top-langs?username=LYJ22&layout=compact)
 
 ## 📒 Projects
 to be updated
