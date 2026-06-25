@@ -41,7 +41,7 @@ Currently, I'm working on becoming a backend developer🔥
 현대오토에버 모빌리티 SW 스쿨
 | 프로젝트 명 | 프로젝트 소개 | 링크 |
 |:---:|:---:|---|
-|틈새 블로그|자신의 목소리로 tts 기능이 제공되는 블로그|https://github.com/hyundai-blog|
+|틈새 블로그|자신의 목소리로 tts 기능이 제공되는 블로그|https://github.com/niche-blog|
 |ThearUp|영화 리뷰 웹 서비스|https://github.com/hyundai-autoever-second-project-team4|
 |차자바|중고차 거래 모바일 앱|https://github.com/hyundai-autoever-third-project-team4|
 |Wherehouse|자동차 부품 창고관리시스템(WMS)|https://gitlab.com/hyundai-autoever-last-project-team4|
